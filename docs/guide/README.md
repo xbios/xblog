@@ -4,7 +4,7 @@ sidebar: auto
 
 # Guide
 
-## Inside an Existing Project
+## Mevcut bir Proje için
 
 ```
 # install as a local dependency
@@ -25,7 +25,7 @@ echo '# Hello VuePress' > docs/README.md
 }
 ```
 
-## Directory struct
+## Vue Press klasör yapısı
 
 ```
 .
