@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Xbios Dersler",
+  title: "Sensorium Dersler",
   description: "Just playing around",
   themeConfig: {
     logo: "/images/logo.png",
