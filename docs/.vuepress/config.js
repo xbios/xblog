@@ -4,9 +4,9 @@ module.exports = {
   themeConfig: {
     logo: "/images/logo.png",
     nav: [
-      { text: "Home", link: "/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "External", link: "http://doruktip.com" },
+      { text: "Ana Sayfa", link: "/" },
+      { text: "Dersler", link: "/guide/" },
+      { text: "Doruktip", link: "http://doruktip.com" },
     ],
     // sidebar: "auto",
     sidebar: {
