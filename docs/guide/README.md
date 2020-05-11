@@ -16,6 +16,8 @@ mkdir docs
 echo '# Hello VuePress' > docs/README.md
 ```
 
+## yarn docs:dev OR npm run docs:dev
+
 ```
 {
   "scripts": {
@@ -52,7 +54,7 @@ echo '# Hello VuePress' > docs/README.md
 └── package.json
 ```
 
-## Default page routing
+## Varsayılan Sayfa Yönlendirme (routing)
 
 For the above directory structure, the default page routing paths are as follows:
 
